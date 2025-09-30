@@ -22,7 +22,7 @@ function App() {
     AOS.refresh();
   }, []);
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/zahid-sol-github">
       <Routes>
         <Route exact path="/" element={<HomeFour />} />
         <Route exact path="/ai" element={<HomeFive />} />
