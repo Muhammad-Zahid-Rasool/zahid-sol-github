@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/zahid-sol-github/static/css/main.3e443948.css",
+    "main.js": "/zahid-sol-github/static/js/main.e5c92b08.js",
+    "static/media/slick.svg": "/zahid-sol-github/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/zahid-sol-github/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/zahid-sol-github/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/zahid-sol-github/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/zahid-sol-github/index.html",
+    "main.3e443948.css.map": "/zahid-sol-github/static/css/main.3e443948.css.map",
+    "main.e5c92b08.js.map": "/zahid-sol-github/static/js/main.e5c92b08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e443948.css",
+    "static/js/main.e5c92b08.js"
+  ]
+}
