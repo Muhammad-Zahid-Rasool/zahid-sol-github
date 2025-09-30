@@ -19,7 +19,7 @@ const TeamAreaOne = () => {
               <div className="single-team-inner text-center">
                 <div className="thumb">
                   <img
-                    src="assets/img/team/shahid.jpg"
+                    src="assets/img/team/Shahid.jpg"
                     alt="img"
                     height={410}
                     width={388}
@@ -89,7 +89,7 @@ const TeamAreaOne = () => {
               <div className="single-team-inner text-center">
                 <div className="thumb">
                   <img
-                    src="assets/img/team/ssm.jpg"
+                    src="assets/img/team/SSM.jpg"
                     alt="img"
                     height={410}
                     width={388}
